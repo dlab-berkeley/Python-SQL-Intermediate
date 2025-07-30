@@ -67,8 +67,17 @@ Here are other Python workshops offered by the D-Lab:
 
 ### Basic competency
 
-* [SQL Fundamentals](https://github.com/dlab-berkeley/SQL-Fundamentals/)
-* [Python Data Wrangling and Manipulation with Pandas](https://dlab.berkeley.edu/events/python-data-wrangling-and-manipulation-pandas/2024-10-10)
+* [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals)
+* [Python GPT Fundamentals](https://github.com/dlab-berkeley/python-gpt-fundamentals)
+* [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling)
+* [Python Data Visualization](https://github.com/dlab-berkeley/Python-Data-Visualization)
+* [Geospatial Fundamentals in Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
+
+### Intermediate/advanced competency
+
+* [Python Text Analysis](https://github.com/dlab-berkeley/python-text-analysis)
+* [Python Machine Learning](https://github.com/dlab-berkeley/python-machine-learning)
+* [Python Deep Learning](https://github.com/dlab-berkeley/python-deep-learning)
 
 # Contributors
 * Bruno Smaniotto
