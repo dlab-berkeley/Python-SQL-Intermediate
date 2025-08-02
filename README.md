@@ -10,7 +10,7 @@ We recommend completing [SQL Fundamentals](https://github.com/dlab-berkeley/Pyth
 - Basic SQL syntax (`SELECT`, `FROM`, `WHERE`)
 - Reading and querying single tables
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to find the best next step for you.
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
 
 ## Workshop Goals
 
